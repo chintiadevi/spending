@@ -1,0 +1,410 @@
+{
+  "spending": [
+    {
+      "tanggal": "2025-04-26T06:28:01.697Z",
+      "nama": "Budget",
+      "kategori": "budget",
+      "jumlah": 5500000,
+      "id": 1
+    },
+    {
+      "tanggal": "2025-06-26T07:44:21.045Z",
+      "nama": "Mr DIY (plastik sampah, tempat sabun cuci piring)",
+      "kategori": "barang",
+      "jumlah": 59500,
+      "id": 2
+    },
+    {
+      "tanggal": "2025-06-26T07:44:56.653Z",
+      "nama": "Azko (ambalan kamar mandi)",
+      "kategori": "barang",
+      "jumlah": 78675,
+      "id": 3
+    },
+    {
+      "tanggal": "2025-06-26T07:46:40.467Z",
+      "nama": "(Shopee) tempat sampah",
+      "kategori": "barang",
+      "jumlah": 37668,
+      "id": 4
+    },
+    {
+      "tanggal": "2025-06-26T15:39:18.314Z",
+      "nama": "Bakso wonogiri",
+      "kategori": "makanan",
+      "jumlah": 33000,
+      "id": 5
+    },
+    {
+      "tanggal": "2025-06-26T15:39:28.957Z",
+      "nama": "Alpukat kocok",
+      "kategori": "makanan",
+      "jumlah": 20000,
+      "id": 6
+    },
+    {
+      "tanggal": "2025-06-27T08:26:42.725Z",
+      "nama": "Saung bangkok (lauk + nasi)",
+      "kategori": "makanan",
+      "jumlah": 37000,
+      "id": "7"
+    },
+    {
+      "tanggal": "2025-06-27T08:27:23.823Z",
+      "nama": "Indomart (air, pepaya)",
+      "kategori": "makanan",
+      "jumlah": 21800,
+      "id": 8
+    },
+    {
+      "tanggal": "2025-06-28T08:42:19.877Z",
+      "nama": "Mako",
+      "kategori": "makanan",
+      "jumlah": 33000,
+      "id": 9
+    },
+    {
+      "tanggal": "2025-06-28T08:43:34.549Z",
+      "nama": "Nasi ulam",
+      "kategori": "makanan",
+      "jumlah": 14000,
+      "id": 10
+    },
+    {
+      "tanggal": "2025-06-28T09:43:44.186Z",
+      "nama": "Akses SG2",
+      "kategori": "lainnya",
+      "jumlah": 35000,
+      "id": 11
+    },
+    {
+      "tanggal": "2025-06-28T09:44:06.390Z",
+      "nama": "Spotify premium",
+      "kategori": "tagihan",
+      "jumlah": 86900,
+      "id": 12
+    },
+    {
+      "tanggal": "2025-06-28T10:02:46.321Z",
+      "nama": "Pepsodent white 225g",
+      "kategori": "barang",
+      "jumlah": 12900,
+      "id": 13
+    },
+    {
+      "tanggal": "2025-06-28T15:43:40.428Z",
+      "nama": "Pisang waras",
+      "kategori": "makanan",
+      "jumlah": 40000,
+      "id": 14
+    },
+    {
+      "tanggal": "2025-06-28T15:44:16.273Z",
+      "nama": "Azko (colokan 4 lubang, 2 lubang)",
+      "kategori": "barang",
+      "jumlah": 99800,
+      "id": 15
+    },
+    {
+      "tanggal": "2025-06-28T15:44:47.223Z",
+      "nama": "Shell super",
+      "kategori": "transportasi",
+      "jumlah": 58758,
+      "id": 16
+    },
+    {
+      "tanggal": "2025-06-29T13:29:32.753Z",
+      "nama": "Beras 1 liter",
+      "kategori": "makanan",
+      "jumlah": 12000,
+      "id": 17
+    },
+    {
+      "tanggal": "2025-06-29T13:30:54.419Z",
+      "nama": "Indomart (telur omega, air mineral)",
+      "kategori": "makanan",
+      "jumlah": 39700,
+      "id": 18
+    },
+    {
+      "tanggal": "2025-06-29T13:31:59.733Z",
+      "nama": "Lauk warteg (sayur, lele)",
+      "kategori": "makanan",
+      "jumlah": 11000,
+      "id": 19
+    },
+    {
+      "tanggal": "2025-06-29T14:30:16.025Z",
+      "nama": "Seafood 89",
+      "kategori": "makanan",
+      "jumlah": 160000,
+      "id": 20
+    },
+    {
+      "tanggal": "2025-06-30T08:54:12.176Z",
+      "nama": "Fotocopy berkas balik nama",
+      "kategori": "lainnya",
+      "jumlah": 10000,
+      "id": "21"
+    },
+    {
+      "tanggal": "2025-06-30T08:54:27.745Z",
+      "nama": "Kwitansi",
+      "kategori": "barang",
+      "jumlah": 10000,
+      "id": 22
+    },
+    {
+      "tanggal": "2025-06-30T08:54:57.236Z",
+      "nama": "(Shopee) kwitansi rangkap 2",
+      "kategori": "barang",
+      "jumlah": 6350,
+      "id": 23
+    },
+    {
+      "tanggal": "2025-06-30T08:57:18.389Z",
+      "nama": "IPL SG2 Juli",
+      "kategori": "tagihan",
+      "jumlah": 180000,
+      "id": 24
+    },
+    {
+      "tanggal": "2025-06-30T23:36:10.812Z",
+      "nama": "Sate kacang",
+      "kategori": "makanan",
+      "jumlah": 50000,
+      "id": 25
+    },
+    {
+      "tanggal": "2025-07-01T08:01:13.361Z",
+      "nama": "IPL, Listrik, Air Apartemen",
+      "kategori": "tagihan",
+      "jumlah": 922137,
+      "id": 26
+    },
+    {
+      "tanggal": "2025-07-01T08:05:17.505Z",
+      "nama": "Air PDAM SG2",
+      "kategori": "tagihan",
+      "jumlah": 68750,
+      "id": 27
+    },
+    {
+      "tanggal": "2025-07-01T13:29:42.407Z",
+      "nama": "Shell super",
+      "kategori": "transportasi",
+      "jumlah": 52000,
+      "id": 28
+    },
+    {
+      "tanggal": "2025-07-01T13:55:03.715Z",
+      "nama": "Nasi uduk",
+      "kategori": "makanan",
+      "jumlah": 53500,
+      "id": 29
+    },
+    {
+      "tanggal": "2025-07-01T14:54:43.935Z",
+      "nama": "Imo alpukat kocok",
+      "kategori": "makanan",
+      "jumlah": 26000,
+      "id": 30
+    },
+    {
+      "tanggal": "2025-07-02T05:29:02.971Z",
+      "nama": "Sekian kopi",
+      "kategori": "makanan",
+      "jumlah": 18000,
+      "id": 31
+    },
+    {
+      "tanggal": "2025-07-02T11:03:44.898Z",
+      "nama": "Family mart (pao, chicken karage)",
+      "kategori": "makanan",
+      "jumlah": 22000,
+      "id": 32
+    },
+    {
+      "tanggal": "2025-07-02T11:04:23.155Z",
+      "nama": "Hanger jepit dalaman",
+      "kategori": "barang",
+      "jumlah": 59800,
+      "id": 33
+    },
+    {
+      "tanggal": "2025-07-04T02:30:32.901Z",
+      "nama": "Cicilan ke-3 Pesona Alam Resort",
+      "kategori": "hiburan",
+      "jumlah": 501401,
+      "id": 34
+    },
+    {
+      "tanggal": "2025-07-04T02:31:24.786Z",
+      "nama": "Token listrik",
+      "kategori": "tagihan",
+      "jumlah": 102100,
+      "id": 35
+    },
+    {
+      "tanggal": "2025-07-04T02:41:39.819Z",
+      "nama": "Ayam penyet + nasi",
+      "kategori": "makanan",
+      "jumlah": 20000,
+      "id": 36
+    },
+    {
+      "tanggal": "2025-07-04T05:54:44.043Z",
+      "nama": "Indihome wifi",
+      "kategori": "tagihan",
+      "jumlah": 225330,
+      "id": 37
+    },
+    {
+      "tanggal": "2025-07-04T15:07:19.771Z",
+      "nama": "Cover korek kuping",
+      "kategori": "barang",
+      "jumlah": 34372,
+      "id": 38
+    },
+    {
+      "tanggal": "2025-07-06T10:23:05.943Z",
+      "nama": "Pecel pincuk bu ida",
+      "kategori": "makanan",
+      "jumlah": 52000,
+      "id": 39
+    },
+    {
+      "tanggal": "2025-07-06T10:24:33.949Z",
+      "nama": "Ikea (Box 5 liter, box kecil isi 3)",
+      "kategori": "barang",
+      "jumlah": 69700,
+      "id": 40
+    },
+    {
+      "tanggal": "2025-07-06T10:26:33.836Z",
+      "nama": "Chatime",
+      "kategori": "makanan",
+      "jumlah": 47927,
+      "id": 41
+    },
+    {
+      "tanggal": "2025-07-06T10:26:51.752Z",
+      "nama": "Aeon (nasi goreng, ocha)",
+      "kategori": "makanan",
+      "jumlah": 42000,
+      "id": 42
+    },
+    {
+      "tanggal": "2025-07-06T10:27:50.266Z",
+      "nama": "(Shopeefood) Nasi kuning mama siska",
+      "kategori": "makanan",
+      "jumlah": 38000,
+      "id": 43
+    },
+    {
+      "tanggal": "2025-07-06T11:02:21.674Z",
+      "nama": "Shell super",
+      "kategori": "transportasi",
+      "jumlah": 61232,
+      "id": 44
+    },
+    {
+      "tanggal": "2025-07-07T07:03:03.337Z",
+      "nama": "Top up tapcash",
+      "kategori": "transportasi",
+      "jumlah": 100000,
+      "id": 45
+    },
+    {
+      "tanggal": "2025-07-07T07:03:44.513Z",
+      "nama": "Kartu tapcash wondr",
+      "kategori": "barang",
+      "jumlah": 33899,
+      "id": 46
+    },
+    {
+      "tanggal": "2025-07-08T05:33:33.415Z",
+      "nama": "(Grabfood) pondok sibungsu",
+      "kategori": "makanan",
+      "jumlah": 21007,
+      "id": 47
+    },
+    {
+      "tanggal": "2025-07-08T05:33:52.681Z",
+      "nama": "Nasi kuning",
+      "kategori": "makanan",
+      "jumlah": 8000,
+      "id": 48
+    },
+    {
+      "tanggal": "2025-07-08T05:33:52.681Z",
+      "nama": "Pecel lele",
+      "kategori": "makanan",
+      "jumlah": 30000,
+      "id": 49
+    },
+    {
+      "tanggal": "2025-07-09T05:33:52.681Z",
+      "nama": "Nasi kuning",
+      "kategori": "makanan",
+      "jumlah": 8000,
+      "id": 50
+    },
+    {
+      "tanggal": "2025-07-09T05:33:52.681Z",
+      "nama": "Waroeng spesial sambal",
+      "kategori": "makanan",
+      "jumlah": 72050,
+      "id": 51
+    },
+    {
+      "tanggal": "2025-07-09T05:33:52.681Z",
+      "nama": "Paket data telkomsel",
+      "kategori": "lainnya",
+      "jumlah": 16500,
+      "id": 52
+    },
+    {
+      "tanggal": "2025-07-10T05:33:52.681Z",
+      "nama": "Warteg",
+      "kategori": "makanan",
+      "jumlah": 26000,
+      "id": 53
+    },
+    {
+      "tanggal": "2025-07-08T05:33:52.681Z",
+      "nama": "(Alfamart) tissu",
+      "kategori": "barang",
+      "jumlah": 9900,
+      "id": 54
+    },
+    {
+      "nama": "Lawson (chicken karage)",
+      "kategori": "makanan",
+      "jumlah": 41100,
+      "tanggal": "2025-07-12T13:13:39.287Z",
+      "id": 55
+    },
+    {
+      "nama": "Dry food bold kitten",
+      "kategori": "barang",
+      "jumlah": 15000,
+      "tanggal": "2025-07-12T13:15:07.862Z",
+      "id": 56
+    },
+    {
+      "nama": "Sambal bakar indonesia",
+      "kategori": "makanan",
+      "jumlah": 106500,
+      "tanggal": "2025-07-12T13:15:36.190Z",
+      "id": 57
+    },
+    {
+      "nama": "Home care Bardi",
+      "kategori": "lainnya",
+      "jumlah": 56000,
+      "tanggal": "2025-07-12T13:24:24.961Z",
+      "id": 58
+    }
+  ]
+}
